@@ -1,0 +1,65 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+data/raw/*
+data/results/*
+data/visualizations/*
+data/embeddings.npz
+data/embedding_map.json
+data/paper_graph.gpickle
+data/paper_graph.graphml
+data/s2_cache/
+data/topic_model
+
+# LaTeX files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Exceptions - keep directories but not their contents
+!data/raw/.gitkeep
+!data/results/.gitkeep
+!data/visualizations/.gitkeep 

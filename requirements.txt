@@ -1,0 +1,15 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+sentence-transformers==2.2.2
+bertopic==0.14.1
+pyserini==0.20.0
+networkx==3.1
+streamlit==1.22.0
+requests==2.30.0
+pandas==2.0.1
+numpy==1.24.3
+pydantic==1.10.7
+matplotlib==3.7.1
+scikit-learn==1.2.2
+hdbscan==0.8.29
+umap-learn==0.5.3 

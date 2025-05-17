@@ -24,8 +24,8 @@ The Paper Bridge Finder helps researchers discover interdisciplinary papers that
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/paper-bridge-finder.git
-   cd paper-bridge-finder
+   git clone https://github.com/Cero72/Paper-Bridge.git
+   cd Paper-Bridge
    ```
 
 2. Install the required dependencies:
@@ -148,9 +148,9 @@ If you're setting up this project in your own Git repository:
    git commit -m "Initial commit of Paper Bridge Finder"
    ```
 
-4. Link to your remote repository (replace the URL with your own):
+4. Link to your remote repository:
    ```bash
-   git remote add origin https://github.com/your-username/paper-bridge-finder.git
+   git remote add origin https://github.com/Cero72/Paper-Bridge.git
    ```
 
 5. Push to the repository:
